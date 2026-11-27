@@ -1,0 +1,7 @@
+{
+  "completeness": 0.30,
+  "evidence_coverage": 0.25,
+  "consistency": 0.20,
+  "supplier_traceability": 0.15,
+  "assessment_coverage": 0.10
+}
